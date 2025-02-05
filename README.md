@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Navidreza Abbaszadeh! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Navidreza80?label=Follow&style=social)](https://github.com/Navidreza80)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)
