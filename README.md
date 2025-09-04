@@ -49,7 +49,7 @@ I'm a passionate frontend developer with expertise in modern web technologies. I
 - **Portfolio**: [navidrezaabbaszadeh.netlify.app](https://navidrezaabbaszadeh.netlify.app)
 - **LinkedIn**: [Navidreza Abbaszadeh](https://www.linkedin.com/in/navidabbaszadeh)
 - **Twitter**: [@Navidreza008](https://x.com/Navidreza008)
-- **Email**: [your-email@example.com](mailto:navidrezaabbaszadeh008@gmail.com)
+- **Email**: [navidrezaabbaszadeh008@gmail.com](mailto:navidrezaabbaszadeh008@gmail.com)
 - **Location**: Sari, Mazandaran, Iran
 
 ---
